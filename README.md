@@ -9,6 +9,10 @@ sh compile.sh
 sh run.sh data/tile3_24s.png
 ```
 
+To train the model look here: https://github.com/ieee8023/CraterDetection
+
+Also for data look here: https://github.com/ieee8023/CraterDataset
+
 
 #Citation Request
 
